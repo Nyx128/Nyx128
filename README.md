@@ -22,8 +22,6 @@
 
 </div>
 
----
-
 <img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=Nyx128&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=9d4edd&icon_color=c77dff&text_color=e0aaff&ring_color=7b2d8b&count_private=true" />
 
 ### `> cat about.txt`
@@ -44,7 +42,6 @@ I live at the intersection of **low-level systems** and **visual computing** —
 
 <br clear="right"/>
 
----
 
 ### `> ls ./weapons`
 
@@ -63,7 +60,6 @@ I live at the intersection of **low-level systems** and **visual computing** —
 
 </div>
 
----
 
 ### `> git log --oneline --graph ./highlights`
 
@@ -81,7 +77,6 @@ I live at the intersection of **low-level systems** and **visual computing** —
 
 > *I contribute to open source because reading other people's GPU code is the closest thing to archaeology I'll ever do.*
 
----
 
 ### `> nvidia-smi --query` *(what's in my head right now)*
 
@@ -96,8 +91,6 @@ void main() {
 }
 ```
 
----
-
 <div align="center">
 
 ### `> htop` *(activity)*
@@ -111,8 +104,6 @@ void main() {
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Nyx128&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/Nyx128)
 
 </div>
-
----
 
 <div align="center">
 
