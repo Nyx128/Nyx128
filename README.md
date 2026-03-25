@@ -24,7 +24,7 @@
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=Nyx128&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=9d4edd&icon_color=c77dff&text_color=e0aaff&ring_color=7b2d8b&count_private=true&include_all_commits=true" />
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=Nyx128&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=9d4edd&icon_color=c77dff&text_color=e0aaff&ring_color=7b2d8b&count_private=true" />
 
 ### `> cat about.txt`
 
